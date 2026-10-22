@@ -1,0 +1,22 @@
+/build/
+/tools/
+/samples/
+/dist/
+__pycache__/
+*.pyc
+*.dylib
+*.o
+*.obj
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ipa
+*.pem
+*.key
+.env
+.env.*
+status.json
+
+# Versioned public release binary is intentionally tracked.
+!releases/**/*.dylib
