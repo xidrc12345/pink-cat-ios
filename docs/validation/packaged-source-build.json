@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "standaloneSourceBuild": "PASS",
+  "binaryMatchesVerifiedBuild": true,
+  "nativeControlFilesUnchanged": true,
+  "UIKitTouchAndRendering": "NOT_RUN"
+}

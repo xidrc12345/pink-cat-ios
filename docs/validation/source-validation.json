@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "brandAndContacts": "PASS",
+  "copyHandlerWiring": "STATIC_PASS",
+  "safeAreaAndScrollWiring": "STATIC_PASS",
+  "oldTestLabelsInUI": false,
+  "pythonSyntax": "PASS",
+  "secretAndBinaryScreen": "allowlist plus limited patterns; not exhaustive",
+  "UIKitTouchAndRendering": "NOT_RUN"
+}

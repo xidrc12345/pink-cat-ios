@@ -1,0 +1,10 @@
+[
+  {
+    "stage": "compile",
+    "exitCode": 0
+  },
+  {
+    "stage": "link",
+    "exitCode": 0
+  }
+]

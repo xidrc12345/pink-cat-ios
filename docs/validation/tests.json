@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "scope": "host mocks only; no UIKit or iOS runtime",
+  "suites": [
+    {
+      "name": "panel",
+      "assertions": 7797,
+      "failed": null
+    },
+    {
+      "name": "native",
+      "assertions": 3018,
+      "failed": null
+    }
+  ],
+  "assertions": 10815,
+  "runtimeInjection": "NOT_RUN",
+  "receiverAudio": "NOT_VERIFIED"
+}
